@@ -1,35 +1,28 @@
-Hi, I'm Parth Kukadiya 👋
+# Hi, I'm Parth Kukadiya 👋
 
-Diploma Computer Engineering student | Python • AI/ML • IoT 📍 Junagadh, Gujarat, India
+**Diploma Computer Engineering Student | Python • AI/ML • IoT**
 
-I build practical projects in Python, AI agents, and embedded systems. Currently looking for a 6-month Python / AI-ML internship (on-site in Junagadh, Rajkot, Ahmedabad, or remote).
+📍 Junagadh, Gujarat, India
 
-LinkedIn Email
-ParthKukadiya2008@gmail.com
+I'm interested in Python development, Artificial Intelligence and building practical technology projects.
 
-🔭 Currently
-🧠 Learning machine learning with pandas, NumPy, and scikit-learn
-🏗️ Building House Price Predictor, an end-to-end ML app with Streamlit (in progress)
-🎯 Seeking a 6-month internship in Python / AI-ML
+### 🚀 Projects
+- **House Price Predictor** – ML application using Python and Streamlit *(In Progress)*
+- **AI Agent** – Python-based task automation.
+- **CodeVerse AI** – AI-assisted coding and learning platform.
+- **Smart Door Lock** – RFID + OTP security system using ESP32.
 
-🚀 Projects
-Project	Description	Tech
-AI Agent in Python	Python-based AI agent for task automation and agent workflows	Python
-Code Verse AI	AI-assisted coding platform: GeeksforGeeks-style learning with a VS Code-like IDE and code execution	TypeScript, HTML, CSS
-Smart Door Lock & Security Alert System	Two-step security: RFID authentication + OTP verification to a registered mobile number	ESP32, C++, Arduino IDE
-House Price Predictor (in progress)	End-to-end ML app: data cleaning, model training, Streamlit web interface	Python, pandas, scikit-learn, Streamlit
-🎓 Education & Certifications
-Diploma in Computer Engineering, Govt. Polytechnic Junagadh (CGPA: 7.65)
-IBM SkillsBuild: Artificial Intelligence Fundamentals
-IBM SkillsBuild: Unleashing the Power of AI Agents
-Python Workshop (20 hours)
-💼 Experience
-SBTP Intern, IBM × Bharat Cares: AI, Data Science, and Agentic Systems
-IoT Project Developer, SSIP: RFID + OTP smart door lock
-📫 Get in touch
+### 🛠️ Currently Learning
+Python, NumPy, Pandas, Scikit-learn and Machine Learning.
 
-Open to internship opportunities. Reach me at kukadiyaparth2008@gmail.com or on LinkedIn.
+### 🎓 Education & Certifications
+- Diploma in Computer Engineering – Govt. Polytechnic Junagadh (CGPA: 7.65)
+- IBM SkillsBuild – AI Fundamentals & AI Agents
+- Python Workshop – 20 Hours
 
-Content
-Session: 61% · resets in 4h 6m
-Weekly: 5% · resets in 2d 21h
+### 🎯 Looking For
+A **6-month Python / AI-ML internship** in Junagadh, Rajkot, Ahmedabad or Remote.
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/parth-kukadiya
+- Email: parthkukadiya2008@gmail.com
