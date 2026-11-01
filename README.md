@@ -13,15 +13,12 @@ I'm interested in Python development, Artificial Intelligence and building pract
 - **Smart Door Lock** – RFID + OTP security system using ESP32.
 
 ### 🛠️ Currently Learning
-Python, NumPy, Pandas, Scikit-learn and Machine Learning.
+Python, NumPy, Pandas, Machine Learning.
 
 ### 🎓 Education & Certifications
 - Diploma in Computer Engineering – Govt. Polytechnic Junagadh (CGPA: 7.65)
 - IBM SkillsBuild – AI Fundamentals & AI Agents
 - Python Workshop – 20 Hours
-
-### 🎯 Looking For
-A **6-month Python / AI-ML internship** in Junagadh, Rajkot, Ahmedabad or Remote.
 
 ### 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/parth-kukadiya
